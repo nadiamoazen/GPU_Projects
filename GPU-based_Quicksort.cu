@@ -1,3 +1,5 @@
+// Improved GPU-based implementation of quicksort
+
 #include <iostream>
 #include <cstdio>
 #include <helper_cuda.h>
